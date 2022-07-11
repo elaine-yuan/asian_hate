@@ -1,7 +1,7 @@
 # asian_hate
 Always Alien: An Analysis of Anti-Asian Hate Crimes
 
-Last year, I was concerned for my family. In New York City, they are not only at risk for catching COVID, but also in danger from anti-Asian hate crimes. The news articles about Asian hate crimes only added to my worry. Even if these stories are no longer in the news cycle, they are still continuing to this day. Hence, in my capstone project, I wanted to analyze hate crime datasets to understand and protect Asian communities from Asian hate crimes. 
+Last year, I was concerned for my family. In New York City, they are not only at risk for catching COVID, but also in danger from anti-Asian hate crimes. The regular news articles about Asian hate crimes only added to my worry. Even if these stories are no longer in the news cycle, they are still continuing to this day. Hence, in my capstone project, I wanted to analyze hate crime datasets to understand and protect Asian communities from Asian hate crimes. 
 
 My questions for the analysis include:
 1. How does the growth of Asian hate crimes in New York City compare with the national growth?
