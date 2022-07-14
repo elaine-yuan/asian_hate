@@ -11,7 +11,7 @@ My questions for the analysis include:
 After data analysis using SQL and Tableau, I presented my findings in PowerPoint: 
 1. Between 2019 to 2020, there was a 74% increase of anti-Asian hate crimes nationally and 2700% increase in New York City.
 2. Queens is the safest borough for an Asian with a rate of 4 incidents per 100,000 Asians versus 41 incidents per 100,000 Asians in Manhattan.
-3. In New York City, most Asian hate crimes are in Midtown, the most accessible and therefore, densely packed neighborhood.
+3. In New York City, the greatest number of Asian hate crimes are in Midtown, the most accessible and therefore, densely packed neighborhood.
 
 Tableau Link: https://public.tableau.com/app/profile/elaine.yuan3471/viz/AsianHate/AlwaysAlien
 
