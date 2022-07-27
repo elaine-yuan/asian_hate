@@ -15,4 +15,6 @@ After data analysis of 219,576 records of national hate crime data and 1,296 rec
 
 Tableau Link: https://public.tableau.com/app/profile/elaine.yuan3471/viz/AsianHate/AlwaysAlien
 
+Presentation Video: https://www.youtube.com/watch?v=3qsdSkzT2pg&list=PLx0iOsdUOUmkYUVZ61ltDZDVsIzTYGQrR&index=17
+
 Tools: SQL, Tableau, PowerPoint
