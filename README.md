@@ -8,7 +8,7 @@ My questions for the analysis include:
 2. Where are Asian hate crimes happening in the city? Why do they happen there?
 3. How can we protect ourselves from hate crimes?
 
-After data analysis of 219,576 records of national hate crime data and 1,296 records of NYPD hate crime data using SQL and Tableau, I presented my findings in PowerPoint: 
+After an analysis of 219,576 records of national hate crime data and 1,296 records of NYPD hate crime data using SQL and Tableau, I presented my findings in PowerPoint: 
 1. Between 2019 to 2020, there was a 74% increase of anti-Asian hate crimes nationally and 2700% increase in New York City.
 2. Queens is the safest borough for an Asian with a rate of 4 incidents per 100,000 Asians versus 41 incidents per 100,000 Asians in Manhattan.
 3. In New York City, the greatest number of Asian hate crimes are in Midtown, the most accessible and therefore, densely packed neighborhood.
